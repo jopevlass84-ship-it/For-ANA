@@ -88,22 +88,22 @@ function mostrarGaleria(){
 
 const fotos = [
 {
-imagen:"imàgenes/ana-beach.jpeg",
+imagen:"imagenes/ana-beach.jpeg",
 titulo:"The day I met you...",
 texto:"My world became brighter because of you. ❤️"
 },
 {
-imagen:"imàgenes/ana-plush.jpeg",
+imagen:"imagenes/ana-plush.jpeg",
 titulo:"Your smile...",
 texto:"Always makes my heart feel at home. 🧸"
 },
 {
-imagen:"imàgenes/ana-tree.jpeg",
+imagen:"imagenes/ana-tree.jpeg",
 titulo:"No matter the distance...",
 texto:"I'll always choose you. 🌸"
 },
 {
-imagen:"imàgenes/daniel.jpeg",
+imagen:"imagenes/daniel.jpeg",
 titulo:"One day...",
 texto:"I hope we'll finally take our first photo together. ❤️"
 }
@@ -232,7 +232,7 @@ document.body.innerHTML = `
 
 <div class="container">
 
-<img src="imàgenes/ana-beach.jpeg" class="galleryImage">
+<img src="imagenes/ana-beach.jpeg" class="galleryImage">
 
 <h1>❤️ Every Love Story Is Beautiful ❤️</h1>
 
